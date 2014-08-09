@@ -1,0 +1,5 @@
+# syntax:
+#   name:type:url
+
+radio 1:icecast:http://ice1.nashownotes.com/status-json.xsl
+radio 2:shoutcast:http://waldorf.nashownotes.com:8000/
