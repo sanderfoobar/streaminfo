@@ -1,4 +1,6 @@
 streaminfo
 ==========
 
-Script to retreive information from shoutcast and icecast streams
+A Python script to retreive information from shoutcast and icecast streams. It supports 3 outputs: raw/json/totals.
+
+Look in the file 'service' to add streams
